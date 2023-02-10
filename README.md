@@ -76,5 +76,7 @@ and controll your tello using hand movements!
 This interfaces with the drone through openCV and generates frames from the video stream for computer vision applications. It comes with a tracker that will detect a color in the scene and follow it:
 https://github.com/Ubotica/telloCV/
 
-### Created this fork to learn more about Git/Github and see if I can make a small drone show choreographed to music using Tellos and Python.
+### Dancing Drone
+
+Created this fork to learn more about Git/Github and see if I can make a small drone show choreographed to music using Tellos and Python.
  
